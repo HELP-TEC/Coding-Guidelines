@@ -1,2 +1,2 @@
 # Coding-Guidelines
-Coding Guidelines for software
+Coding Guidelines for software developement in ST language
